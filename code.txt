@@ -1,0 +1,8 @@
+Let's make a game!
+	name: Rovar Swayde Puncher
+	author: Rovar Swayde
+	desc: Punch Rovar For Rovars
+	created: 13/10/56
+	updated: 13/10/56
+	version: 1.0.0
+  
