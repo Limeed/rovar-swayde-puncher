@@ -6,3 +6,8 @@ Let's make a game!
 	updated: 13/10/56
 	version: 1.0.0
   
+Settings
+	tiling background: https://raw.githubusercontent.com/Limeed/rovar-swayde-puncher/main/old%20guy%20with%20clothes.png
+	building cost increase: 125%
+	building cost refund: 20%
+	
